@@ -1,4 +1,4 @@
-package prueba;
+package pruebas;
 
 import modelo.Laptop;
 
